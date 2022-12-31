@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Harsh97x/profile-card-component/blob/main/design/desktop-design.jpg)
 
 ### Links
 
